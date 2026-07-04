@@ -1,0 +1,30 @@
+# Dataset
+Dataset/
+Dataset_Backup/
+
+# Trained Models
+Trained_Model/
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.pkl
+
+# Results (optional)
+Results/*.png
+Results/*.jpg
+Results/*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
